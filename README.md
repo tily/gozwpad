@@ -1,6 +1,6 @@
 # gozwpad
 
-Go port of [string-pad][https://github.com/youpy/string-pad) gem.
+Go port of [string-pad](https://github.com/youpy/string-pad) gem.
 
 ## Usage
 
