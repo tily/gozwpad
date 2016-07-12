@@ -6,7 +6,7 @@
 [![Coverage Status](https://coveralls.io/repos/github/tily/gozwpad/badge.svg?branch=master)](https://coveralls.io/github/tily/gozwpad?branch=master)
 [![GoDoc](https://godoc.org/github.com/tily/gozwpad?status.svg)](http://godoc.org/github.com/tily/gozwpad)
 
-Go port of [string-pad](https://github.com/youpy/string-pad) gem. Pad text with random zero-width characters. Useful for posting redudant tweets.
+Go port of [string-pad](https://github.com/youpy/string-pad) gem. Pad text with random zero-width characters, mainly for posting redudant tweets.
 
 ## Usage
 
